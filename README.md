@@ -1,3 +1,6 @@
+[my portfolio](https://jecta.me)
+--
+![portfolio](jecta.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z6J1HO5)
 
 <!--
