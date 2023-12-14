@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [@outfitsbio](https://github.com/outfits-bio).
 - 🌱 I’m currently self-learning design and studying software development.
-- 👯 I’m open to pull requests on [outfits.bio](https://github.com/jecta/outfits.bio).
 - 📫 How to reach me: [contacts information](https://jeremybosma.nl/contact).
 
 - [Learn more about me and what i do on my portfolio!](https://jeremybosma.nl)
