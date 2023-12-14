@@ -1,8 +1,7 @@
 <!-- [learn more @ jecta.me](https://jecta.me) -->
 <!-- ![portfolio](jecta.png) -->
 
-- 🔭 I’m currently working on [@outfitsbio](https://github.com/outfits-bio).
-- 🌱 I’m currently self-learning design and studying software development.
+- 🌱 I’m currently studying software development and self-learning design.
 - 📫 How to reach me: [contacts information](https://jeremybosma.nl/contact).
 
 - [Learn more about me and what i do on my portfolio!](https://jeremybosma.nl)
