@@ -1,6 +1,6 @@
-[![portfolio](https://github.com/Jecta/jecta/assets/68130184/9202ebd9-84c2-45b6-a9da-296569478bd5)](https://jeremybosma.nl)
-[![ko-fi](https://github.com/Jecta/jecta/assets/68130184/4aab9b3e-a0b1-4570-9e74-99845385487d)](https://ko-fi.com/Z8Z6J1HO5)
-[![x](https://github.com/Jecta/jecta/assets/68130184/3a7ba9f0-8499-42d7-bb32-aff33535c569)](https://x.com/jecta2)
+[![portfolio](https://github.com/Jecta/jecta/assets/68130184/dd0ea770-c8a4-4337-ba6c-788ea6ab3be4)](https://jeremybosma.nl)
+[![x](https://github.com/Jecta/jecta/assets/68130184/2c635958-af7e-4f93-a06d-3944e1de0fbd)](https://ko-fi.com/Z8Z6J1HO5)
+[![ko-fi](https://github.com/Jecta/jecta/assets/68130184/87ff540c-ec4e-465b-b7be-d1272531f140)](https://x.com/jecta2)
 
 <!-- [learn more @ jecta.me](https://jecta.me) -->
 <!-- ![portfolio](jecta.png) -->
